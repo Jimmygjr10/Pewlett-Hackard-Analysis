@@ -6,7 +6,7 @@
 
 ## RESULTS
 
-### - Pewlett Hackard has 41,000 people that are about to retire.
+### - Pewlett Hackard has abut 41,000 people that are about to retire.
 ![Employees_retiring](https://user-images.githubusercontent.com/83085800/138921829-03d6bdee-41ec-4b5a-8468-e79151560914.PNG)
 
 ### - Pewlett Hackard will lose more Senior Engineers than any other position in the company
